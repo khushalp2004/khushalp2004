@@ -1,6 +1,6 @@
 # Hi, I'm Khushal Patil 👋
 
-🚀 Aspiring Full Stack Developer  
+🚀 Aspiring ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+Developer;SaaS+Builder;Problem+Solver) 
 💻 Building SaaS apps & real-time systems  
 📍 Ahmedabad, India  
 
@@ -19,7 +19,12 @@
 
 - 🥇 Top 41% on LeetCode Contest 
 - 🏁 SSIP Hackathon Finalist  
-- 💻 Max 872 Codeforces rating  
+- 💻 Max 872 Codeforces rating
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalp2004&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khushalp2004&theme=tokyonight)
 
 ---
 
