@@ -1,5 +1,5 @@
 # Hi, I'm Khushal Patil 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+Developer;SaaS+Builder;Problem+Solver) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=5aad00&lines=Full+Stack+Developer;SaaS+Builder;Problem+Solver) 
 
 💻 Building SaaS apps & real-time systems  
 📍 Ahmedabad, India  
@@ -28,21 +28,7 @@
 
 ## 📌 Projects
 
-### 🔹 EROS – Emergency Response & Optimization System
-- Role based Access Control (RBAC) for Authority vs. Admin vs. Unit Drivers vs. Reporters
-- Real-time tracking + dispatch system  
-- WebSockets + maps integration
-- Unit Driving View
-- Tracking Link and Other SMS for Reporters 
-
-### 🔹 GraphiXo – AI Image Editor
-- Background removal + object recoloring  
-- Built with Next.js + Cloudinary
-- Payment Intrgration for Premium Features using Stripe
-
-[![EROS](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=EROS&theme=tokyonight)](https://github.com/khushalp2004/EROS)
-
-[![Graphixo](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=Graphixo&theme=tokyonight)](https://github.com/khushalp2004/Graphixo)
+[![EROS](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=EROS&theme=tokyonight)](https://github.com/khushalp2004/EROS) [![Graphixo](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=Graphixo&theme=tokyonight)](https://github.com/khushalp2004/Graphixo)
 
 ---
 
