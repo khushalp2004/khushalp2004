@@ -1,6 +1,6 @@
 # Hi, I'm Khushal Patil 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+Developer;SaaS+Builder;Problem+Solver) 
 
-🚀 Aspiring ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Full+Stack+Developer;SaaS+Builder;Problem+Solver) 
 💻 Building SaaS apps & real-time systems  
 📍 Ahmedabad, India  
 
@@ -24,8 +24,6 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalp2004&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khushalp2004&theme=tokyonight)
-
 ---
 
 ## 📌 Projects
@@ -40,7 +38,11 @@
 ### 🔹 GraphiXo – AI Image Editor
 - Background removal + object recoloring  
 - Built with Next.js + Cloudinary
-- Payment Intrgration for Premium Features using Stripe 
+- Payment Intrgration for Premium Features using Stripe
+
+[![EROS](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=EROS&theme=tokyonight)](https://github.com/khushalp2004/EROS)
+
+[![Graphixo](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=Graphixo&theme=tokyonight)](https://github.com/khushalp2004/Graphixo)
 
 ---
 
