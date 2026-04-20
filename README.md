@@ -26,13 +26,16 @@
 ## 📌 Projects
 
 ### 🔹 EROS – Emergency Response & Optimization System
+- Role based Access Control (RBAC) for Authority vs. Admin vs. Unit Drivers vs. Reporters
 - Real-time tracking + dispatch system  
 - WebSockets + maps integration
-- Unit Driving View 
+- Unit Driving View
+- Tracking Link and Other SMS for Reporters 
 
 ### 🔹 GraphiXo – AI Image Editor
 - Background removal + object recoloring  
-- Built with Next.js + Cloudinary  
+- Built with Next.js + Cloudinary
+- Payment Intrgration for Premium Features using Stripe 
 
 ---
 
