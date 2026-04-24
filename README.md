@@ -1,5 +1,5 @@
 # Hi, I'm Khushal Patil 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=5aad00&lines=Full+Stack+Developer;SaaS+Builder;Problem+Solver) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=5aad00&lines=Backend+Developer;SaaS+Builder;Problem+Solver) 
 
 💻 Building SaaS apps & real-time systems  
 📍 Ahmedabad, India  
