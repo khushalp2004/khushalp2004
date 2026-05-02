@@ -28,7 +28,9 @@
 
 ## 📌 Projects
 
-[![EROS](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=EROS&theme=tokyonight)](https://github.com/khushalp2004/EROS) [![Graphixo](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=Graphixo&theme=tokyonight)](https://github.com/khushalp2004/Graphixo)
+[![EROS](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=EROS&theme=tokyonight)](https://github.com/khushalp2004/EROS) 
+[![Graphixo](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=Graphixo&theme=tokyonight)](https://github.com/khushalp2004/Graphixo)
+[![TraceForge](https://github-readme-stats.vercel.app/api/pin/?username=khushalp2004&repo=TraceForge&theme=tokyonight)](https://github.com/khushalp2004/TraceForge)
 
 ---
 
